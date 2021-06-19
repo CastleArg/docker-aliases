@@ -15,6 +15,7 @@ function docker_alias() {
 # JavaScript / CoffeeScript
 alias node="docker_alias /directory node node"
 alias npm="docker_alias /directory node npm"
+alias npm="docker_alias /directory node npm"
 alias coffee="docker_alias /directory shouldbee/coffeescript coffee"
 
 # PHP
